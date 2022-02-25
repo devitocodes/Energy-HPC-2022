@@ -1,2 +1,3 @@
-# OGHPC2022
-Contents for the OGHPC2022 Devito training workshop.
+# Energy HPC 2022 - From zero to Devtio
+
+Contents for the EHPC2022 Devito training workshop.
