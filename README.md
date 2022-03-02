@@ -20,7 +20,7 @@ For attendees who would like a more hands on experience with Devito, during the 
 
 To access the workshop material:
 * If using the Azure VM's provided:
-    * Go to: https://devitocodes.southcentralus.cloudapp.azure.com/
+    * Go to: https://devito.southcentralus.cloudapp.azure.com/
     * Login using your Github credentials
     * Navigate to ```devito_rice_2022/workshop_notebooks``` and enjoy!
 * If using your own device:
